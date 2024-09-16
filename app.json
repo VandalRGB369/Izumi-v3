@@ -9,7 +9,7 @@
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Enter your session id",
+      "description": "izumi~PcuV9RZP",
       "required": true
     },
     "HEROKU": {
@@ -68,12 +68,12 @@
     "SUDO": {
       "description": "Add Sudo number",
       "required": false,
-      "value": "919876543210"
+      "value": "639123393063"
     },
     "MODE": {
       "description": "Bot work type",
       "required": true,
-      "value": "private"
+      "value": "public"
     }
   },
   "addons": [
